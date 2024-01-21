@@ -4,7 +4,7 @@ ___
 <div align="left">
   <a href="https://app.daily.dev/danilomsou">
     <img 
-      src="https://api.daily.dev/devcards/b3bcce4884b741458818290fe4f09d17.png?r=y2u" 
+      src="https://github.com/danilomsou/danilomsou/blob/master/devcard.svg" 
       width="256"
       align="right" 
       alt="Danilo Machado de Sousa's Dev Card"/>
