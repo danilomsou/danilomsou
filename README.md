@@ -26,3 +26,4 @@ These are the technologies I currently work with:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 
+<a href="https://app.daily.dev/danilomsou"><img src="https://api.daily.dev/devcards/b3bcce4884b741458818290fe4f09d17.png?r=y2u" width="400" alt="Danilo Machado de Sousa's Dev Card"/></a>
