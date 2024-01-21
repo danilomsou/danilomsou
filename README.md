@@ -4,10 +4,10 @@ ___
 <div align="left">
   <a href="https://app.daily.dev/danilomsou">
     <img 
-      src="https://github.com/danilomsou/danilomsou/blob/master/devcard.svg" 
+      src="https://github.com/danilomsou/danilomsou/blob/main/devcard.svg" 
       width="256"
       align="right" 
-      alt="Danilo Machado de Sousa's Dev Card"/>
+      alt=""/>
   </a>
 </div>
 
