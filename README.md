@@ -1,8 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 ___
 
+<div align="left">
+  <a href="https://app.daily.dev/danilomsou">
+    <img 
+      src="https://api.daily.dev/devcards/b3bcce4884b741458818290fe4f09d17.png?r=y2u" 
+      width="256"
+      align="right" 
+      alt="Danilo Machado de Sousa's Dev Card"/>
+  </a>
+</div>
+
 My name is Danilo, and I am a full stack JavaScript developer.
-<a href="https://app.daily.dev/danilomsou"><img src="https://api.daily.dev/devcards/b3bcce4884b741458818290fe4f09d17.png?r=y2u" width="400" alt="Danilo Machado de Sousa's Dev Card"/></a>
 
 To check my previous experience:
 
